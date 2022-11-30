@@ -1,1 +1,1 @@
-# M3U8LIST
+# M3u8.list
